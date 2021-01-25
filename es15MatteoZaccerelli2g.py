@@ -6,4 +6,4 @@ if stato in stati:
     capitale = Capitali[stati.index(stato)]
     print("La capitale dello stato ", stato," è ",  capitale)
 else:
-    print("lo stat non fa parte della lista")
+    print("Lo stato non fa parte della lista")
